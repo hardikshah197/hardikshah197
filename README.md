@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Catalyst**
 
-- 🌱 I’m currently learning **Google Cloud Specialisation**
+- 🌱 I’m currently learning **Google Cloud**
 
 - 👯 I’m looking to collaborate on **Open Scource**
 
@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N8Op-9zMNNgV-N2TlpICoK5LYQ8vm2D4/view?usp=sharing](https://drive.google.com/file/d/1N8Op-9zMNNgV-N2TlpICoK5LYQ8vm2D4/view?usp=sharing)
 
-- ⚡ Fun fact **I think, working on self is the first step towards to your dream**
+- ⚡ Fun fact **I think, working on self is the first step towards your dream**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
