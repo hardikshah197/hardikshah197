@@ -40,10 +40,10 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hardikSharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="110" alt="hardikSharma" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/hardikSharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hardikSharma" /></a><br><br>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikshah197&show_icons=true&locale=en&layout=compact" alt="hardikshah197" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikshah197&show_icons=true&locale=en&layout=compact" alt="hardikshah197" />
 <br>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=hardikshah197&show_icons=true&locale=en" alt="hardikshah197" /></p>
