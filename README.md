@@ -25,6 +25,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How to resolve setState doesn’t update immediately issue?](https://hardikshah197.medium.com/how-to-resolve-setstate-doesnt-update-immediately-issue-ac1297c208ea?source=rss-44a971708403------2)
+- [Node Environment variables](https://hardikshah197.medium.com/node-environment-variables-2350861195e?source=rss-44a971708403------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
