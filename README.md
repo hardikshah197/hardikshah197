@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
 <h3 align="center">A passionate Software and Web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img padding-left="90px" src="https://github-profile-trophy.vercel.app/?username=hardikshah197" alt="hardikshah197" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img padding-left="90" src="https://github-profile-trophy.vercel.app/?username=hardikshah197" alt="hardikshah197" /></a> </p>
 
 - 🔭 I’m currently working on **Catalyst**
 
