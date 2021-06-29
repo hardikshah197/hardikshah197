@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
 <h3 align="center">A passionate Software and Web developer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding-left:90px;" src="https://github-profile-trophy.vercel.app/?username=hardikshah197&column=8&theme=gruvbox&no-frame=true" alt="hardikshah197" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding-left:90px;" src="https://github-profile-trophy.vercel.app/?username=hardikshah197&theme=gruvbox&no-frame=true" alt="hardikshah197" /></a> </p>
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=hardikshah197&column=8&theme=gruvbox&no-frame=true"/>
 </a> -->
@@ -45,7 +45,7 @@
 
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=hardikshah197&count_private=true&include_all_commits=true" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikshah197&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hardikshah197&layout=compact" />
 </div>
 
 
