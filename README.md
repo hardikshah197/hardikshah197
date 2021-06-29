@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
 <h3 align="center">A passionate Software and Web developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding-left:90px;" src="https://github-profile-trophy.vercel.app/?username=hardikshah197" alt="hardikshah197" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding-left:90px;" src="https://github-profile-trophy.vercel.app/?username=hardikshah197&theme=onedark" alt="hardikshah197" /></a> </p>
 
 - 🔭 I’m currently working on **Catalyst**
 
@@ -42,7 +42,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/hardikSharma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hardikSharma" /></a><br><br>
+<p><a href="https://www.buymeacoffee.com/hardikSharma"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="hardikSharma" /></a><br><br>
 &emsp;&emsp;&emsp;
 </p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hardikshah197&show_icons=true&locale=en&layout=compact" alt="hardikshah197" />
