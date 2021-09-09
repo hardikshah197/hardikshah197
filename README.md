@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Google Cloud**
 
-- 👯 I’m looking to collaborate on **Open Scource**
+- 👯 I’m Open Source contributor at **Kubernetes**, **Mozilla FireFox**, **MS-Visual Studio Code** & **MDN-website**. Also, looking to collaborate more on **Open Scource**
 
 - 🤝 I’m looking for help with **Docker and Kubernetes**
 
