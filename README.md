@@ -1,11 +1,18 @@
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
 <h3 align="center">A Software & Web developer from India</h3>
-![](https://komarev.com/ghpvc/?username=hardikshah197)
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding-left:90px;" src="https://github-profile-trophy.vercel.app/?username=hardikshah197&theme=gruvbox&no-frame=true" alt="hardikshah197" /></a> </p>
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=hardikshah197&column=8&theme=gruvbox&no-frame=true"/>
 </a> -->
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=hardikshah197">
+</a>
+
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/hardikshah197/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=1849174)
 
 - 🔭 I’m currently working on **Catalyst**
 
