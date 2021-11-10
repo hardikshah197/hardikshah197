@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hardik Sharma</h1>
-<h3 align="center">A Software & Web developer from India</h3>
+<!-- <h3 align="center">A Software & Web developer from India</h3> -->
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="padding-left:90px;" src="https://github-profile-trophy.vercel.app/?username=hardikshah197&theme=gruvbox&no-frame=true" alt="hardikshah197" /></a> </p> -->
 <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=hardikshah197&column=8&theme=gruvbox&no-frame=true"/>
 </a> -->
-<a href="https://github.com/hardikshah197" align="center">
+<center>
+<a href="https://github.com/hardikshah197" >
     <img src="https://komarev.com/ghpvc/?username=hardikshah197">
-</a>
+</a></center>
 
 [Ÿ HŸPE]: https://yhype.me
 [GitHub Profile Views Counter]: https://github.com/hardikshah197/github-profile-views-counter
@@ -32,13 +33,13 @@
 
 <!-- - 📄 Know about my experiences [https://drive.google.com/file/d/1N8Op-9zMNNgV-N2TlpICoK5LYQ8vm2D4/view?usp=sharing](https://drive.google.com/file/d/1N8Op-9zMNNgV-N2TlpICoK5LYQ8vm2D4/view?usp=sharing) -->
 
-- ⚡ Fun fact **I think, working on self is the first step towards your dream**
+<!-- - ⚡ Fun fact **I think, working on self is the first step towards your dream** -->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [How to resolve setState doesn’t update immediately issue?](https://hardikshah197.medium.com/how-to-resolve-setstate-doesnt-update-immediately-issue-ac1297c208ea?source=rss-44a971708403------2)
 - [Node Environment variables](https://hardikshah197.medium.com/node-environment-variables-2350861195e?source=rss-44a971708403------2)
-<!-- BLOG-POST-LIST:END --> -->
+<!-- BLOG-POST-LIST:END -->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
